@@ -9,3 +9,10 @@ The dataset used contains 263 rows representing commodity price data for beans. 
 * Consumer preferences
 * Transportation and supply chain efficiency
 * Market trends and demand spikes
+
+# **Project Structure**
+The project includes:
+* commodity_price_predictor.ipynb: Core notebook containing data preprocessing, model training, and evaluation for the LSTM model.
+* Main.ipynb: Web interface implementation using Flask for interactive predictions.
+* Dataset folder: Includes the cleaned data for commodity price predictions.
+  
