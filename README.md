@@ -16,3 +16,30 @@ The project includes:
 * Main.ipynb: Web interface implementation using Flask for interactive predictions.
 * Dataset folder: Includes the cleaned data for commodity price predictions.
   
+# **Requirements**
+To run this project, ensure you have the following dependencies installed:
+* Python 3.x
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* TensorFlow/Keras
+* Flask
+* Seaborn
+
+# **Model Development**
+Moving Average Model
+* The moving average technique smooths out fluctuations in time-series data by calculating the average of different subsets.
+
+LSTM Model
+* LSTM networks are a type of recurrent neural network capable of learning long-term dependencies, particularly useful for time-series data.
+
+Model Evaluation Metrics:
+* Mean Absolute Error (MAE)
+* Root Mean Squared Error (RMSE)
+
+Web Interface
+The project includes a web application developed using Flask.
+Features
+* Input commodity details and predict prices for the next three days.
+* Visual representation of historical and predicted prices.
