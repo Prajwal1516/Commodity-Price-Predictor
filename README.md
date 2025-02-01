@@ -3,7 +3,7 @@ A machine learning-based project for predicting commodity prices using LSTM (Lon
 
 # **Dataset**
 The dataset used contains 263 rows representing commodity price data for beans. The data captures key aspects influencing commodity prices over time.
-**Features Considered**
+** Features Considered **
 * Seasonality and trends
 * Weather conditions
 * Consumer preferences
