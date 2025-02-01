@@ -43,3 +43,20 @@ The project includes a web application developed using Flask.
 Features
 * Input commodity details and predict prices for the next three days.
 * Visual representation of historical and predicted prices.
+
+# **Running the Web Application**
+To start the Flask app, run: python app.py
+Access the application at http://localhost:5000/.
+
+# **Usage**
+* Enter the commodity name and relevant parameters.
+* View predicted prices for the next three days.
+
+# **Future Enhancements**
+* Include additional machine learning models for improved accuracy.
+* Expand the dataset to include diverse commodities.
+* Integration with real-time market APIs.
+* Enhanced UI for better user experience.
+
+# **Conclusion**
+This project demonstrates the application of machine learning for commodity price prediction using LSTM and Moving Average models. The interactive web interface allows users to gain insights into market trends and make informed decisions.
